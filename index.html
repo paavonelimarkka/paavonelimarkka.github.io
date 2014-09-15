@@ -5,27 +5,44 @@ title: index
 <html>
 <head>
 	<title>PaavoNelimarkka@Github</title>
+	<link rel="stylesheet" href="css/foundation.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/vendor/modernizr.js"></script>
 </head>
 <body>
+	<div class="wrapper">
+		<header class="row header">
+			<div class="large-6 columns name">
+				<h1>Paavo Nelimarkka</h1>
+			</div>
+			<nav class="nav large-6 columns">
+				<ul>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Work</a></li>
+					<li><a href="#">CV</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</nav>
+		</header>
+		
+		<div class="row">
+			<article class="large-6 columns about">
+				{% for post in site.posts %}
+					<h2> {{ post.title }} </h2>
+		  			<p> {{ post.content }} </p>
+		  		{% endfor %}
+			</article>
+		</div>
 
-	<header>
-		<nav>
-
-		</nav>
-	</header>
-
-	<article>
-		{% for post in site.posts %}
-  			<span>{{ post.content }}</span>
-  		{% endfor %}
-	</article>
-
-	<article>
-	  	{% for post in site.posts %}
-	  		<h2> {{ post.title }} </h2>
-	  		<p> {{ post.content }} </p>
-	  	{% endfor %}
-	</article>
+		<div class="row">
+			<article class="large-6 columns works">
+			  	{% for post in site.posts %}
+			  		<h2> {{ post.title }} </h2>
+			  		<p> {{ post.content }} </p>
+			  	{% endfor %}
+			</article>
+		</div>
+	</div>
 
 </body>
 </html>
