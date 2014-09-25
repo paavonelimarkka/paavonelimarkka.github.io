@@ -1,39 +1,52 @@
 body {
 	background-image: url('../img/greyz.png');
 }
+body p {
+	font-family: "Lato", sans-serif;
+}
+body h1, h2, h3, h4 {
+	font-family: "Arvo", sans-serif;
+}
 
 .wrapper {
-	width: 960px;
+	width: 600px;
 	margin: 0 auto;
 }
+
 .header{
-	background-image: url('../img/zwarte.png');
-	width: 100%;
-	height: 80px;
-	position: fixed;
-	top: 0;
+	text-align: center;
 }
-.name {
-	color: white !important;
-	display: inline-block;
+.header img {
+	display: block;
+	margin: 80px auto 20px auto;
+	max-width: 200px;
+	min-width: 100px;
 }
-.nav {
-	position: relative;
-	top: 30px;
-	display: inline-block;
+.header h1 {
+	font-family: "Arvo", sans-serif;
+	text-align: center;
+	display: block;
 }
-.nav ul {
-	list-style-type: none;
-	text-align: right;
-}
-.nav ul li {
-	display: inline-block;
-}
-.nav ul li a {
-	color: white;
-	padding: 0 10px;
-	font-size: 20px;
-}
+
 .about {
-	margin-top: 100px;
+
+}
+
+.works {
+
+}
+.works h2 {
+	text-align: center;
+}
+.works h3 {
+	font-family: "Lato", sans-serif;
+}
+
+.contact {
+	text-align: center;
+}
+.contact i {
+	display: inline-block;
+	font-size: 32px;
+	padding: 0 10px;
 }

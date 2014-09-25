@@ -4,44 +4,55 @@ title: index
 
 <html>
 <head>
+	<meta charset="utf-8">
 	<title>PaavoNelimarkka@Github</title>
 	<link rel="stylesheet" href="css/foundation.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 	<script src="js/vendor/modernizr.js"></script>
 </head>
 <body>
 	<div class="wrapper">
 		<header class="row header">
-			<div class="large-6 columns name">
+			<div class="large-12 columns">
+				<img src="http://www.hakkalabs.co/assets/placeholder.png" alt="my-face" class="picture" />
 				<h1>Paavo Nelimarkka</h1>
 			</div>
-			<nav class="nav large-6 columns">
-				<ul>
-					<li><a href="#">About</a></li>
-					<li><a href="#">Work</a></li>
-					<li><a href="#">CV</a></li>
-					<li><a href="#">Contact</a></li>
-				</ul>
-			</nav>
 		</header>
-		
-		<div class="row">
-			<article class="large-6 columns about">
-				{% for post in site.posts %}
-					<h2> {{ post.title }} </h2>
+
+		<section class="row">
+			<article class="large-7 columns">
+				{% for post in site.tags.about %}
 		  			<p> {{ post.content }} </p>
 		  		{% endfor %}
 			</article>
-		</div>
-
-		<div class="row">
-			<article class="large-6 columns works">
-			  	{% for post in site.posts %}
-			  		<h2> {{ post.title }} </h2>
-			  		<p> {{ post.content }} </p>
-			  	{% endfor %}
+			<article class="large-5 columns">
+				{% for post in site.tags.skills %}
+		  			<p> {{ post.content }} </p>
+		  		{% endfor %}
 			</article>
-		</div>
+		</section>
+
+		<section class="row works">
+			<h2>Works</h2>
+		  	{% for post in site.tags.work %}
+			  	<article class="large-6 columns work">
+			  		<h3> {{ post.title }} </h3>
+			  		<p> {{ post.content }} </p>
+		  		</article>
+		  	{% endfor %}	
+		</section>
+
+		<section class="row contact">
+			<div class="large-12 columns">
+				<h2>Contact</h2>
+				<a href="#"><i class="fa fa-linkedin"></i></a>
+				<a href="#"><i class="fa fa-github"></i></a>
+				<a href="#"><i class="fa fa-twitter"></i></a>
+			</div>
+		</section>
 	</div>
 
 </body>
