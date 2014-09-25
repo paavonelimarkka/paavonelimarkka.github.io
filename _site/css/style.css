@@ -15,28 +15,40 @@ body h1, h2, h3, h4 {
 
 .header{
 	text-align: center;
-}
-.header img {
-	display: block;
-	margin: 80px auto 20px auto;
-	max-width: 200px;
-	min-width: 100px;
+	padding-bottom: 30px;
 }
 .header h1 {
 	font-family: "Arvo", sans-serif;
 	text-align: center;
 	display: block;
 }
+.header-image {
+	width: 200px;
+	height: 200px;
+	margin: 80px auto 20px auto;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url("http://www.hakkalabs.co/assets/placeholder.png") no-repeat;
+	background-size: 200px;
+}
 
 .about {
+	padding-bottom: 30px;
+}
+.about-me {
+	
+}
+.skille {
 
 }
 
 .works {
-
+	padding-bottom: 30px;
 }
 .works h2 {
 	text-align: center;
+	padding-bottom: 20px;
 }
 .works h3 {
 	font-family: "Lato", sans-serif;

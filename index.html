@@ -14,21 +14,22 @@ title: index
 	<script src="js/vendor/modernizr.js"></script>
 </head>
 <body>
+
 	<div class="wrapper">
 		<header class="row header">
 			<div class="large-12 columns">
-				<img src="http://www.hakkalabs.co/assets/placeholder.png" alt="my-face" class="picture" />
+				<div class="header-image"></div>
 				<h1>Paavo Nelimarkka</h1>
 			</div>
 		</header>
 
-		<section class="row">
-			<article class="large-7 columns">
+		<section class="row about">
+			<article class="large-7 about-me">
 				{% for post in site.tags.about %}
 		  			<p> {{ post.content }} </p>
 		  		{% endfor %}
 			</article>
-			<article class="large-5 columns">
+			<article class="large-5 skills">
 				{% for post in site.tags.skills %}
 		  			<p> {{ post.content }} </p>
 		  		{% endfor %}
@@ -48,8 +49,8 @@ title: index
 		<section class="row contact">
 			<div class="large-12 columns">
 				<h2>Contact</h2>
-				<a href="#"><i class="fa fa-linkedin"></i></a>
-				<a href="#"><i class="fa fa-github"></i></a>
+				<a href="https://www.linkedin.com/in/paavonelimarkka"><i class="fa fa-linkedin"></i></a>
+				<a href="https://github.com/paavonelimarkka"><i class="fa fa-github"></i></a>
 				<a href="#"><i class="fa fa-twitter"></i></a>
 			</div>
 		</section>
