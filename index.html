@@ -40,8 +40,8 @@ title: index
 			<h2>Works</h2>
 		  	{% for post in site.tags.work %}
 			  	<article class="large-6 columns work">
-			  		<h3> {{ post.title }} </h3>
-			  		<p> {{ post.content }} </p>
+			  		<a href="#"><h3> {{ post.title }} </h3></a>
+			  		<p> {{ post.excerpt }} </p>
 		  		</article>
 		  	{% endfor %}	
 		</section>

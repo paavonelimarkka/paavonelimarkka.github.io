@@ -1,6 +1,6 @@
 ---
-title: Test Post
+title: Skills
 tag: skills
 ---
 
-Mysql
+Skills: HTML5, CSS3, LESS, SASS, Bootstrap, Foundation, Wordpress, Concrete5, Jekyll, JS, jQuery, PHP, GIT, SVN, Agile, DevOps, Scrum

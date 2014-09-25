@@ -3,9 +3,11 @@ body {
 }
 body p {
 	font-family: "Lato", sans-serif;
+	color: #0b0b0b;
 }
 body h1, h2, h3, h4 {
 	font-family: "Arvo", sans-serif;
+	color: #0d0d0d;
 }
 
 .wrapper {
@@ -37,7 +39,7 @@ body h1, h2, h3, h4 {
 	padding-bottom: 30px;
 }
 .about-me {
-	
+
 }
 .skille {
 
