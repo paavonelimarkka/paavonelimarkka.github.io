@@ -31,8 +31,9 @@ body h1, h2, h3, h4 {
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	background: url("http://www.hakkalabs.co/assets/placeholder.png") no-repeat;
+	background: url("../img/paavonnaama.jpg") no-repeat;
 	background-size: 200px;
+	background-position: 0% 10%;
 }
 
 .about {
