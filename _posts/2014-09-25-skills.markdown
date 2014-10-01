@@ -2,5 +2,23 @@
 title: Skills
 tag: skills
 ---
-
-Skills: HTML5, CSS3, LESS, SASS, Bootstrap, Foundation, Wordpress, Concrete5, Jekyll, JS, jQuery, PHP, GIT, SVN, Agile, DevOps, Scrum
+<ul>
+	<li>HTML5</li>
+	<li>CSS3</li>
+	<li>LESS</li>
+	<li>SASS</li>
+	<li>Bootstrap</li>
+	<li>Foundation</li>
+	<li>Wordpress</li>
+	<li>Concrete5</li>
+	<li>Jekyll</li>
+	<li>JS</li>
+	<li>jQuery</li>
+	<li>PHP</li>
+	<li>GIT</li>
+	<li>SVN</li>
+	<li>Agile</li>
+	<li>DevOps</li>
+	<li>Scrum</li>
+	<li>And more...</li>
+</ul>

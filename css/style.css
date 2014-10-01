@@ -27,7 +27,7 @@ body h1, h2, h3, h4 {
 .header-image {
 	width: 200px;
 	height: 200px;
-	margin: 80px auto 20px auto;
+	margin: 80px auto 28px auto;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
@@ -42,8 +42,16 @@ body h1, h2, h3, h4 {
 .about-me {
 
 }
-.skille {
-
+.skills ul {
+	list-style: none;
+	margin-left: 0;
+}
+.skills ul li {
+	font-size: 10px;
+	display: inline-block;
+	padding: 1px 4px;
+	border: 1px solid #0b0b0b;
+	border-radius: 5px;
 }
 
 .works {
@@ -56,11 +64,36 @@ body h1, h2, h3, h4 {
 .works h3 {
 	font-family: "Lato", sans-serif;
 }
+.works ul {
+	list-style: none;
+}
+.works ul li {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.works li a img {
+	max-width: 33%;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
 
 .contact {
 	text-align: center;
 }
-.contact i {
+.contact h2 {
+	text-align: center;
+}
+.contact ul {
+	list-style: none;
+	margin-left: 0;
+	margin-bottom: 80px;
+}
+.contact ul li {
+	display: inline-block;
+}
+.contact a i {
 	display: inline-block;
 	font-size: 32px;
 	padding: 0 10px;
