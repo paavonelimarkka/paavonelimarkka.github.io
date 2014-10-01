@@ -3,8 +3,8 @@ title: Test Post
 tag: about
 ---
 
-Hi! I'm Paavo. I do webdev, ux/ui, gamedev, project management and I love to learn and try new stuff.
+Hi! I'm Paavo. I do webdev, ux / front-end, gamedev, project management and I love to learn and try new and innovative stuff.
 
-I'm currently looking for full-time job.
+I'm currently looking for a full-time job.
 
 See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or from my CV: [html](./cv) / [pdf](cv.pdf)
