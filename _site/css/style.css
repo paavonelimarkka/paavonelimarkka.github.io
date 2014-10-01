@@ -17,8 +17,14 @@ body a:hover {
 }
 
 .wrapper {
-	width: 600px;
+	max-width: 600px;
 	margin: 0 auto;
+}
+@media only screen and (max-width: 40em) {
+	.wrapper {
+		padding: 20px;
+	}
+
 }
 
 .header{
@@ -102,11 +108,11 @@ body a:hover {
 	opacity: 0;
 	width: 160px;
 	height: 160px;
-	background: rgba(72,159,255,0.95);
-	-ms-transition: opacity 0.35s ease-in-out;
-    -webkit-transition: opacity 0.35s ease-in-out;
-    -moz-transition: opacity 0.35s ease-in-out;
-    transition: opacity 0.35s ease-in-out;
+	background: rgba(72,159,255,0.90);
+	-ms-transition: opacity 0.25s ease-in-out;
+    -webkit-transition: opacity 0.25s ease-in-out;
+    -moz-transition: opacity 0.25s ease-in-out;
+    transition: opacity 0.25s ease-in-out;
 }
 .info h4 {
 	color: white;
