@@ -13,4 +13,6 @@ I'm currently working as a product owner and project manager for our reference p
 
 You can try the demo version of the Teamboard [here](http://teamboard.n4sjamk.org) or you can also check our [wiki](https://github.com/N4SJAMK/teamboard-meta/wiki) on the Github.
 
-See what we have done on our website [n4sjamk.github.io](http://n4sjamk.github.io/) or on our [github page](http://github.com/n4sjamk)
+See what else we have done from our website [n4sjamk.github.io](http://n4sjamk.github.io/) or on our [github page](http://github.com/n4sjamk)
+
+I have learned a lot about project management, lean and agile workflows and frameworks, software-as-a-service development, feedback channels etc. I also did some web development, for example our [webiste](http://github.com/n4sjamk)
