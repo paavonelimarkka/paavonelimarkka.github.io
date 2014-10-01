@@ -24,7 +24,6 @@ body a:hover {
 	.wrapper {
 		padding: 20px;
 	}
-
 }
 
 .header{
@@ -93,6 +92,11 @@ body a:hover {
 	width: 160px;
 	margin: 0;
 	padding: 0;
+}
+@media (max-width: 40em) {
+	.works li a img {
+		padding: 10px;
+	}
 }
 .pic {
 	position: relative;
