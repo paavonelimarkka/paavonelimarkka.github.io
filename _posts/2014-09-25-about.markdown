@@ -3,6 +3,8 @@ title: Test Post
 tag: about
 ---
 
-Hei olen Paavo. Tykkään jutuista ja joistain jutuista en sitten tykkää yhtään. Vapaa-ajallani en tee mitään. Olen kehno.
+Hi! I'm Paavo. I do webdev, ux/ui, gamedev, project management and I love to learn and try new stuff.
 
-Check my CV: [html](./cv) / [pdf](cv.pdf)
+I'm currently looking for full-time job.
+
+See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or from my CV: [html](./cv) / [pdf](cv.pdf)
