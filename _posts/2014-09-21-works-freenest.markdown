@@ -2,7 +2,6 @@
 title: <span id="freenest">FreeNest</span>
 tag: work
 ---
-<span id="freenest"></span>
 <a href="../img/works/rollup.jpg">![](../img/works/rollup_thumb.jpg)</a>
 <a href="../img/works/julisteet.jpg">![](../img/works/julisteet_thumb.jpg)</a>
 <a href="../img/works/freenestlogos.jpg">![](../img/works/freenestlogos_thumb.jpg)</a>
