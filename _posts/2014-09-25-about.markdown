@@ -7,4 +7,4 @@ Hi! I'm Paavo. I do webdev, ux / front-end, gamedev, project management and I lo
 
 I'm currently looking for a full-time job.
 
-See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or from my CV: [html](./cv) / [pdf](cv.pdf)
+See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or from my [html CV](./cv)

@@ -1,0 +1,45 @@
+---
+title: Curriculum Vitae
+tag: cv
+---
+
+### Product Owner / Project Specialist - JAMK University of Applied Sciences
+
+June 2014 – Present (5 months)
+
+I'm working as a product owner and project manager/specialist for our "Teamboard" reference product at JAMK University of Applied Sciences. We're working for the Digile N4S research program funded by TEKES.
+
+
+### Guest Lecturer, Unity3D - JAMK University of Applied Sciences
+
+May 2014 – December (9 months) Jyväskylä
+
+Teaching the Basics of Unity3D and guiding the students with their game projects.
+
+
+### Guest Lecturer, Unity3D Game Engine - JAMK University of Applied Sciences
+
+January 2014 – May 2014 (5 months) Jyväskylä
+
+Teaching the basics of Unity3D game engine in the Game Programming module. I also wrote my bachelor thesis about the subject for JAMK and others to use.
+
+
+### Web-developer - Mainostoimisto Mediataivas Oy
+
+April 2013 – August 2013 (5 months) Jyväskylä
+
+I mostly developed web-sites from ready layouts. HTML5, Less, JS, jQuery, PHP, Concrete5, scrum...
+
+
+### User Experience Team member - Nestronite (Skynest project)
+
+2012 – 2012 (less than a year)
+
+UX and web development.
+
+
+### AD Assistant - Torstai-lehti
+
+2009 – 2009 (less than a year)
+
+Graphic design, layout
