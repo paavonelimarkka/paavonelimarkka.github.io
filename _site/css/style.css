@@ -47,12 +47,17 @@ body h1, h2, h3, h4 {
 	margin-left: 0;
 }
 .skills ul li {
-	font-size: 10px;
+	font-size: 12px;
+	font-weight: bold;
+	color: white;
 	display: inline-block;
-	padding: 1px 4px;
-	border: 1px solid #0b0b0b;
-	border-radius: 5px;
+	padding: 2px 6px;
+	margin: 2px;
+	border-radius: 8px;
 }
+#strong { background-color: #2E3C7F; }
+#medium { background-color: #5D79FF; }
+#light { background-color: #A9B8FF; }
 
 .works {
 	padding-bottom: 30px;
