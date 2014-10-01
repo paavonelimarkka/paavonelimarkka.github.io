@@ -20,7 +20,7 @@ body a:hover {
 	max-width: 600px;
 	margin: 0 auto;
 }
-@media only screen and (max-width: 40em) {
+@media (max-width: 40em) {
 	.wrapper {
 		padding: 20px;
 	}
