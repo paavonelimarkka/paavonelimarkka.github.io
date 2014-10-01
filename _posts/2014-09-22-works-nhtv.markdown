@@ -1,5 +1,5 @@
 ---
-title: NHTV Breda, Z-Gee game project
+title: <span id="nhtv">NHTV Breda, Z-Gee game project</span>
 tag: work
 ---
 <span id="nhtv"></span>

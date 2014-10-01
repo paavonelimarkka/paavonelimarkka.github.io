@@ -1,8 +1,8 @@
 ---
-title: JAMK, Unity
+title: <span id="unity">JAMK, Unity</span>
 tag: work
 ---
-<span id="unity"></span>
+
 ![](../img/works/unity_logo.png)
 
 I was a guest lecturer at JAMK University of applied sciences in two courses. The first course was a part of the Game Programming module and the second course was a course funded by the ELY for adult studends.

@@ -1,8 +1,7 @@
 ---
-title: Mediataivas
+title: <span id="mediataivas">Mediataivas</span>
 tag: work
 ---
-<span id="mediataivas"></span>
 
 <a href="http://www.ekoteko.fi/fi">![](../img/works/ekoteko_thumb.png)</a>
 <a href="http://www.aanekoskenenergia.fi/fi">![](../img/works/ak_thumb.png)</a>

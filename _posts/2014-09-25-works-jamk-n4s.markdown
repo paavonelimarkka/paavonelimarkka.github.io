@@ -1,9 +1,8 @@
 ---
-title: JAMK, Digile N4S
+title: <span id="n4s">JAMK, Digile N4S</span>
 tag: work
 ---
 
-<span id="n4s"></span>
 <a href="../img/works/teamboard_product_picture.png"><img src="../img/works/teamboard_product_picture_thumb.png" /></a>
 <a href="../img/works/teamboard_tickets.png"><img src="../img/works/teamboard_tickets_thumb.png" /></a>
 

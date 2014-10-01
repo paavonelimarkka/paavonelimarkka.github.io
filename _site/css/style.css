@@ -89,6 +89,35 @@ body a:hover {
 	margin: 0;
 	padding: 0;
 }
+.pic {
+	position: relative;
+}
+.info {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: inline-block;
+	opacity: 0;
+	width: 160px;
+	height: 160px;
+	background: rgba(51,51,51,0.95);
+	text-align: center;
+	color: white;
+}
+.info h4 {
+	color: white;
+	padding-top: 30px;
+}
+.info p {
+	color: white;
+	font-size: 10px;
+}
+
+.pic:hover .info {
+	opacity: 1;
+}
 
 .contact {
 	text-align: center;

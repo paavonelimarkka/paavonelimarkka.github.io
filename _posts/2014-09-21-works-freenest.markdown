@@ -1,5 +1,5 @@
 ---
-title: FreeNest
+title: <span id="freenest">FreeNest</span>
 tag: work
 ---
 <span id="freenest"></span>
