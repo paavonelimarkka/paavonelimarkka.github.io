@@ -5,6 +5,6 @@ tag: about
 
 Hi! I'm Paavo. I do web development, ux / front-end, game development, project management, graphics and I love to learn and try new and innovative stuff.
 
-I'm currently looking for a full-time job.
+I'm currently looking for a new oppurtunities.
 
-See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or from my [html CV](./cv)
+See my previous employers from [LinkedIn](https://www.linkedin.com/in/paavonelimarkka) or download my [resume.](paavonelimarkka_resume.pdf)
