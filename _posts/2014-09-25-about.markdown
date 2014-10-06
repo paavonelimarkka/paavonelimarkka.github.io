@@ -3,7 +3,7 @@ title: Test Post
 tag: about
 ---
 
-Hi! I'm Paavo. I do webdev, ux / front-end, gamedev, project management and I love to learn and try new and innovative stuff.
+Hi! I'm Paavo. I do web development, ux / front-end, game development, project management, graphics and I love to learn and try new and innovative stuff.
 
 I'm currently looking for a full-time job.
 
