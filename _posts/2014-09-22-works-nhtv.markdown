@@ -11,6 +11,17 @@ tag: work
 <a href="../img/works/zgee_ss1.jpg">![](../img/works/zgee_ss1_thumb.jpg)</a>
 <a href="../img/works/zgee_ss2.jpg">![](../img/works/zgee_ss2_thumb.jpg)</a>
 
+##### Skills learned:
+<div class="skills">
+	<ul>
+		<li id="strong">Unity3D</li>
+		<li id="strong">SVN</li>
+		<li id="strong">Internationality</li>
+		<li id="medium">Game Design</li>
+		<li id="light">3D Modeling</li>
+		<li id="light">2D Art</li>
+	</ul>
+</div>
 
 I had my exchange study period in Netherlands @ NHTV International Game Architecture & Design. I studied with first year Indie Game Design class, and we had this Game Lab course which was basically a big game project. We had a team of 8 people and my main responsibility was the level design. The game is made with Unity3D game engine.
 

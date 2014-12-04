@@ -7,10 +7,18 @@ tag: work
 <a href="../img/works/teamboard_product_picture.png"><img src="../img/works/teamboard_product_picture_thumb.png" /></a>
 <a href="../img/works/teamboard_tickets.png"><img src="../img/works/teamboard_tickets_thumb.png" /></a>
 
+##### Skills learned:
 <div class="skills">
 	<ul>
-		<li>Kissa</li>
-		<li>Koira</li>
+		<li id="strong">Agile</li>
+		<li id="strong">Lean</li>
+		<li id="medium">User Experience</li>
+		<li id="medium">Service Design</li>
+		<li id="medium">Web development</li>
+		<li id="medium">SASS</li>
+		<li id="medium">Foundation</li>
+		<li id="medium">Bourbon</li>
+		<li id="light">SaaS-development</li>
 	</ul>
 </div>
 
