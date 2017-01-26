@@ -23,6 +23,14 @@ title: index
 				<h1>Paavo Nelimarkka</h1>
 			</div>
 		</header>
+		
+		<skills class="row">
+			<div class="large-12 columns">
+				{% for post in site.tags.skills %}
+		  			<p> {{ post.content }} </p>
+		  		{% endfor %}
+			</div>
+		</skills>
 
 		<!--
 		<section class="row about">
