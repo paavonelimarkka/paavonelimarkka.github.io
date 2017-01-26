@@ -53,6 +53,9 @@ body a:hover {
 .about-me {
 
 }
+.skills {
+	text-align: center;
+}
 .skills ul {
 	list-style: none;
 	margin-left: 0;
