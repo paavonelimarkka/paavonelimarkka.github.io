@@ -34,6 +34,7 @@ body a:hover {
 	font-family: "Arvo", sans-serif;
 	text-align: center;
 	display: block;
+	margin-top: 60px;
 }
 .header-image {
 	width: 200px;
