@@ -3,7 +3,7 @@ title: Skills
 tag: skills
 ---
 <ul>
-	<li id="strong">Game Development</li>
-	<li id="strong">Software/Web Development</li>
-	<li id="strong">UX/Service Design</li>
+	<li id="medium">Game Development</li>
+	<li id="medium">Software/Web Development</li>
+	<li id="medium">UX/Service Design</li>
 </ul>
